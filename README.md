@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tinytecher
+- 👋 Hi, I’m @CharlotteForte
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 You can reach me by email at tinytecher@gmail.com
