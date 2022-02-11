@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React Portfolio Website](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on a **[React Portfolio Website](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Typescript.**
 
