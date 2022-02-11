@@ -1,4 +1,4 @@
-<a href="https://imgur.com/RGgno2O"><img width="60%" margin-left="500px" height="auto" src="https://i.imgur.com/RGgno2O.png" baclground="black" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charlotte</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from London.</h3>
