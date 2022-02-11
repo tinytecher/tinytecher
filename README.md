@@ -8,9 +8,8 @@
 
 - 🔭 I’m currently working on **[React Portfolio Website](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Typescript.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/charlotte-forte-a942804a/)**
 
@@ -80,3 +79,5 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+
