@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Right now I'm working on a **[React Portfolio Website](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 Right now I'm working on a **[React Photography Website](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Typescript.**
+- 🌱 I’m currently learning **CSS Animations**
 
 
 - 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/charlotte-forte-a942804a/)**
