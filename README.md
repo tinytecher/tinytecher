@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Right now I'm working on a **[React Photography Website](https://covid-19-tracker-e4bda.web.app/)** with next.js & Chakra.ui.
+- 🔭 Right now I'm working on a **[React Photography Website](https://covid-19-tracker-e4bda.web.app/)** with next.js & Chakra.ui
 
 - 🌱 I’m currently learning **CSS Animations**
 
