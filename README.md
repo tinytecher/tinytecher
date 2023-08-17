@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tinytecher@gmail.com**
 
-- ⚡ Fun facts **I am 4ft 11in, adopt hamsters and love cheese!**
+- ⚡ Fun facts **I am 4ft 11in, adopt hamsters and love psychology!**
 
 ## 🚀 Languages and Tools:
 
